@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "875514259705",
+    "firebase_url": "https://absensi-rfid-c670a-default-rtdb.firebaseio.com",
+    "project_id": "absensi-rfid-c670a",
+    "storage_bucket": "absensi-rfid-c670a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875514259705:android:159b50290e727c3471da28",
+        "android_client_info": {
+          "package_name": "com.mirhamu.absensi_rfid_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875514259705-j41msonf3vcc8mlmevranl041u45tjk5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mirhamu.absensi_rfid_firebase",
+            "certificate_hash": "6b8762d132b1a69a374a7721424533f9d438747e"
+          }
+        },
+        {
+          "client_id": "875514259705-79onei68gvb3n9p6lrs5inhkl3r0deqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLtdPe2bPihDn3XXKPdWMFjIS6KlpMR_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875514259705-79onei68gvb3n9p6lrs5inhkl3r0deqv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "875514259705-c72qu8j43cnre030puuud51as1ail2cb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mirhamu.absensiRfidFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
